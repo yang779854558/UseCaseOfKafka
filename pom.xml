@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yhh</groupId>
-    <artifactId>usecase-kafka</artifactId>
+    <artifactId>UseCaseOfKafka</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>usecase-kafka</name>
+    <name>UseCaseOfKafka</name>
     <description>UseCaseOfKafka</description>
 
     <properties>
